@@ -1,0 +1,19 @@
+html {
+  text-align: center;
+  background-color: rgb(126, 126, 126);
+  color: white;
+}
+body {
+  margin-top: 300px;
+  margin-bottom: 300px;
+  background-color: black;
+  padding: 60px;
+  margin-left: 650px;
+  margin-right: 650px;
+  border-radius: 30px;
+}
+
+#button {
+  background-color: rgb(211, 211, 211);
+  border-radius: 20px;
+}
